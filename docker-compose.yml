@@ -5,8 +5,8 @@ services:
     ports:
       - "3000:3000"
     depends_on:
-      -backend-dev
-      -backend-prod
+      - backend-dev
+      - backend-prod
 
   backend-dev:
     build: ./backend/dev
