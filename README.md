@@ -60,5 +60,11 @@ docker ps                       #Check running containers
 
 Open in browser:
 http://[IP]:3000
+<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/1225ca7b-5249-47ca-876d-1bef5be406b9" />
+
 http://[IP]:3000/dev
+<img width="1363" height="676" alt="image" src="https://github.com/user-attachments/assets/51814512-7990-4883-b53e-04225a1eef11" />
+
 http://[IP]:3000/prod
+<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/c48627f1-a3c1-4ac2-b9f4-dcf9c7edbffe" />
+
